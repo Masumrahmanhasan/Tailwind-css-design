@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.t-c {
+	color: #3D3D3D;
+}
+.border-color {
+	border: 2px solid #3D3D3D;
+}
+.m-c {
+	margin: 0 150px;
+}
