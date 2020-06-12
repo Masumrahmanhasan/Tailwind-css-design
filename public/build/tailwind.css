@@ -17894,6 +17894,18 @@ video {
   width: 425px;
 }
 
+.top-90 {
+  top: 90%;
+}
+
+.l-15 {
+  left: 15%;
+}
+
+.r-15 {
+  right: 15%;
+}
+
 @media (min-width: 640px) {
   .sm\:space-y-0 > :not(template) ~ :not(template) {
     --space-y-reverse: 0;
